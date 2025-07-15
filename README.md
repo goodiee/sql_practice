@@ -33,7 +33,6 @@ Now that I’ve completed this course, I plan to:
 ## 🏅 Certification
 
 You can view or verify my Kaggle profile ![Course Progress Screenshot]<img width="1418" height="812" alt="image" src="https://github.com/user-attachments/assets/03cc8d3a-d686-46d5-b50b-eeae20659bf2" />
-)
 
 ---
 
