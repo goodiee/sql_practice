@@ -1,6 +1,6 @@
 # 🏁 SQL for Data Analysis — Kaggle Course Completion
 
-This repository contains my notes, code, and learnings from the **"Intro to SQL"** course on [Kaggle](https://www.kaggle.com/learn/intro-to-sql). The course provides a strong foundation in using **SQL with Google BigQuery** for exploring and analyzing large datasets.
+This repository contains my notes, code, and learnings from the **"Intro to SQL"** course on [Kaggle](https://www.kaggle.com/learn/intro-to-sql). The course provides a strong foundation in using **SQL** for exploring and analyzing large datasets.
 
 ---
 
